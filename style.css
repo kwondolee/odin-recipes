@@ -1,0 +1,37 @@
+
+.recipe,
+.dir {
+    font-size: 35px;
+    background-color: rgb(243, 160, 64);
+}
+
+.dir{
+    color: whitesmoke
+}
+
+.recipe{
+    color: indigo
+}
+
+.title{
+    background-color: black;
+    color: white;
+    font-family: 'Times New Roman', 'Verdana', sans-serif;
+    font-size: 44px;
+    font-weight: bold;
+}
+
+.list{
+    color: red;
+}
+
+.steps{
+    color: green;
+}
+
+#food{
+    font-weight: bold;
+    font: 'Times New Roman', sans-serif;
+    color: cornflowerblue;
+    background-color: black;
+}
